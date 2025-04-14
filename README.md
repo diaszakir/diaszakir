@@ -1,4 +1,6 @@
-# 💫 About Me:
+# 👋 Hi, I'm Dias Zakir
+
+## 💫 About Me:
 🎓 I'm second year student at Astana IT University <br>🌱 Continuously expanding my skills by learning new technologies and languages<br>💻 Currently learning JavaScript and Flutter cross-platform mobile development
 
 
