@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Dias Zakir
 
 ## 💫 About Me:
-🎓 I'm third year student at Astana IT University <br>🌱 Continuously expanding my skills by learning new technologies and languages<br>💻 Currently learning JavaScript and Flutter cross-platform mobile development
+🎓 I'm third year student at Astana IT University <br>🌱 Continuously expanding my skills by learning new technologies and languages<br>💻 Currently learning Python and Flask for backend development
 
 
 ## 🌐 Socials:
@@ -20,8 +20,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ### ⚙️ Backend Development
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ### 📱 Mobile Development
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
@@ -41,9 +39,9 @@
 ### ⚙️ Services
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ### 📖 Currently learning
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 # 📊 GitHub Stats:
 <div align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=diaszakir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
