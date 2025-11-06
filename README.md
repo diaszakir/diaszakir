@@ -51,7 +51,7 @@ I'm third year student at Astana IT University <br> Continuously expanding my sk
 ### Testing Tools/Frameworks
 ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
 ### Currently learning
-
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 # GitHub Stats:
