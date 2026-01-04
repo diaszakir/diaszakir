@@ -4,7 +4,7 @@
 <ul>
   <li>Bachelor’s student (3rd year), Astana IT University</li>
   <li>Focus: Backend development + ML fundamentals</li>
-  <li>Currently learning: Django (next: Django REST Framework)</li>
+  <li>Currently learning: Django REST Framework and Docker (next: Golang)</li>
   <li>Open to collaboration and opportunities: internship/junior roles, hackathons, team projects, open-source.</li>
   <li>Feel free to reach out via Telegram, Email and LinkedIn.</li>
 </ul>
