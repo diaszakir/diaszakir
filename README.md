@@ -49,10 +49,11 @@
   <tr>
     <td><b>Backend Development</b></td>
     <td>
-      <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gin-Framework-00ADD8?style=for-the-badge&logo=go" />
       <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
       <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
       <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
     </td>
   </tr>
 
@@ -99,7 +100,6 @@
   <tr>
     <td><b>Currently learning</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Gin-Framework-00ADD8?style=for-the-badge&logo=go" />
       <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
     </td>
   </tr>
