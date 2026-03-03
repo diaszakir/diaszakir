@@ -4,7 +4,7 @@
 <ul>
   <li>Bachelor’s student (3rd year), Astana IT University</li>
   <li>Focus: Backend development + ML fundamentals</li>
-  <li>Currently learning: Golang</li>
+  <li>Currently learning: Microservices (gRPC + Protobuff)</li>
   <li>Open to collaboration and opportunities: internship/junior roles, hackathons, team projects, open-source.</li>
   <li>Feel free to reach out via Telegram, Email and LinkedIn.</li>
 </ul>
