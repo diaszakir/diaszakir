@@ -7,7 +7,8 @@
   <li>Currently learning: Spring and Microservices (gRPC + Protobuff)</li>
   <li>Open to collaboration and opportunities: <b>Junior+/Middle</b> roles, hackathons, team projects, open-source.</li>
   <li>Feel free to reach out via Telegram, Email and LinkedIn.</li>
-  <li>Software Engineering (2023-2026) - Astana IT University</li>
+  <li>Bachelor: Software Engineering - Astana IT University (2023-2026)</li>
+  <li>Master: TBA</li>
 </ul>
 
 ## Socials
