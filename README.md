@@ -2,11 +2,12 @@
 
 <h2 style="border-bottom: none;">About me</h2>
 <ul>
-  <li>Bachelor’s student (3rd year), Astana IT University</li>
+  <li>Fullstack Developer</li>
   <li>Focus: Backend development + ML fundamentals</li>
   <li>Currently learning: Spring and Microservices (gRPC + Protobuff)</li>
   <li>Open to collaboration and opportunities: <b>Junior+/Middle</b> roles, hackathons, team projects, open-source.</li>
   <li>Feel free to reach out via Telegram, Email and LinkedIn.</li>
+  <li>Software Engineering (2023-2026) - Astana IT University</li>
 </ul>
 
 ## Socials
