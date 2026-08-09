@@ -4,8 +4,8 @@
 <ul>
   <li>Bachelor’s student (3rd year), Astana IT University</li>
   <li>Focus: Backend development + ML fundamentals</li>
-  <li>Currently learning: Microservices (gRPC + Protobuff)</li>
-  <li>Open to collaboration and opportunities: internship/junior roles, hackathons, team projects, open-source.</li>
+  <li>Currently learning: Spring and Microservices (gRPC + Protobuff)</li>
+  <li>Open to collaboration and opportunities: <b>Junior+/Middle</b> roles, hackathons, team projects, open-source.</li>
   <li>Feel free to reach out via Telegram, Email and LinkedIn.</li>
 </ul>
 
@@ -68,7 +68,7 @@
   </tr>
 
   <tr>
-    <td><b>Data Science / ML</b></td>
+    <td><b>Machine/Deep Learning, NLP</b></td>
     <td>
       <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
       <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -100,9 +100,17 @@
   </tr>
 
   <tr>
+    <td><b>AI Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+      <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claudecode&logoColor=white" />
+    </td>
+  </tr>
+
+  <tr>
     <td><b>Currently learning</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+      <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
     </td>
   </tr>
 </table>
