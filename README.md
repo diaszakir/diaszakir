@@ -2,9 +2,9 @@
 
 <h2 style="border-bottom: none;">About me</h2>
 <ul>
-  <li>Fullstack Developer</li>
-  <li>Focus: Backend development + ML fundamentals</li>
-  <li>Currently learning: Spring and Microservices (gRPC + Protobuff)</li>
+  <li>Backend Developer</li>
+  <li>Focus: Backend development + AI/NLP Integration</li>
+  <li>Currently learning: Microservices (Spring Cloud), PyTorch, SpiCy</li>
   <li>Open to collaboration and opportunities: <b>Junior+/Middle</b> roles, hackathons, team projects, open-source.</li>
   <li>Feel free to reach out via Telegram, Email and LinkedIn.</li>
   <li>Bachelor: Software Engineering - Astana IT University (2023-2026)</li>
@@ -51,12 +51,12 @@
   <tr>
     <td><b>Backend Development</b></td>
     <td>
+      <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
       <img src="https://img.shields.io/badge/Gin-Framework-00ADD8?style=for-the-badge&logo=go" />
       <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
       <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
       <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
     </td>
   </tr>
 
@@ -66,6 +66,8 @@
       <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
       <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hibernate-%2359666C.svg?style=for-the-badge&logo=Hibernate&logoColor=white" />
+      <img src="https://img.shields.io/badge/sqlalchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
     </td>
   </tr>
 
@@ -74,12 +76,15 @@
     <td>
       <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
       <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
     </td>
   </tr>
 
   <tr>
     <td><b>Frontend</b></td>
     <td>
+      <img src="https://img.shields.io/badge/Next-%23000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
@@ -91,13 +96,14 @@
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
     </td>
   </tr>
 
   <tr>
-    <td><b>Testing</b></td>
+    <td><b>DevOps</b></td>
     <td>
-      <img src="https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3" />
+      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
     </td>
   </tr>
 
@@ -112,7 +118,8 @@
   <tr>
     <td><b>Currently learning</b></td>
     <td>
-      <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+      Spring Cloud
+      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -123,3 +130,5 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=diaszakir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=diaszakir&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
+
+<!--<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" /> -->
