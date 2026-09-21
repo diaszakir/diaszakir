@@ -8,7 +8,7 @@
   <li>Open to collaboration and opportunities: <b>Junior+/Middle</b> roles, hackathons, team projects, open-source.</li>
   <li>Feel free to reach out via Telegram, Email and LinkedIn.</li>
   <li>Bachelor: Software Engineering - Astana IT University (2023-2026)</li>
-  <li>Master: TBA</li>
+  <li>Master: Applied Artificial Intelligence - Astana IT University (2026-2028)</li>
 </ul>
 
 ## Socials
