@@ -2,7 +2,7 @@
 
 <h2 style="border-bottom: none;">About me</h2>
 <ul>
-  <li>Backend Developer</li>
+  <li>FullStack Developer/AI Engineer</li>
   <li>Focus: Backend development + AI/NLP Integration</li>
   <li>Currently learning: Microservices (Spring Cloud), PyTorch, SpiCy</li>
   <li>Open to collaboration and opportunities: <b>Junior+/Middle</b> roles, hackathons, team projects, open-source.</li>
